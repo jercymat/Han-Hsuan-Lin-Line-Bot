@@ -21,7 +21,9 @@ handler = WebhookHandler('CHANNEL_SECRET')
 6. Happy ever after
 ## Implementation
 Here's my Line bot's QRcode, enjoy.
-![Line Bot QRcode](https://qr-official.line.me/sid/L/640dkttj.png)
+
+
+![Line Bot QRcode](https://i.imgur.com/BzbRjnt.png)
 ---
 2019 Han-Hsuan Lin
 National Chengchi University
